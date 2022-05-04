@@ -1,0 +1,34 @@
+@font-face {
+    font-family: Roboto-italic;
+    src: url(../fonts/Roboto-Italic.ttf);
+}
+
+@font-face {
+    font-family: Roboto-Lightitalic;
+    src: url(../fonts/Roboto-LightItalic.ttf);
+}
+
+@font-face {
+    font-family: Roboto-Mediumitalic;
+    src: url(../fonts/Roboto-MediumItalic.ttf);
+}
+
+@font-face {
+    font-family: Roboto-Regular;
+    src: url(../fonts/Roboto-Regular.ttf);
+}
+
+@font-face {
+    font-family: Jost-Italic;
+    src: url(../fonts/Jost-Italic.ttf);
+}
+
+@font-face {
+    font-family: Jost-Regular;
+    src: url(../fonts/Jost-Regular.ttf);
+}
+
+@font-face {
+    font-family: Jost-LightItalic;
+    src: url(../fonts/Jost-LightItalic.ttf);
+}
